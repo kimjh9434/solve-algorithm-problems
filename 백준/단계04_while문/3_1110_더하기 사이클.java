@@ -16,7 +16,7 @@ public class Main {
 //		System.out.println(firstNum+""+secondNum);
 //		System.out.println(next_firstNum+""+next_secondNum);
 		
-		while(!(N/10==next_firstNum &&  N%10==next_secondNum)){
+		while(!(N/10==next_firstNum && N%10==next_secondNum)){
 			firstNum = next_firstNum;
 			secondNum = next_secondNum;
 			
