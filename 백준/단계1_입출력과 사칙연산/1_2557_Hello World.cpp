@@ -1,4 +1,4 @@
-// C++ ¼Ò½ºÄÚµå
+ï»¿// C++ ì†ŒìŠ¤ì½”ë“œ
 #include <cstdio>
 int main(int argc, char* argv[])
 {
@@ -6,7 +6,7 @@ int main(int argc, char* argv[])
 	return 0;
 }
 
-// CF. iostreamÀ» ÀÌ¿ëÇÑ Ç®ÀÌ
+// CF. iostreamì„ ì´ìš©í•œ í’€ì´
 //#include <iostream>
 //using namespace std;
 //int main(int argc, char* argv[])
